@@ -16,5 +16,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample/blob/main/04.Qwen2-VL.ipynb)<br>
 参考：https://github.com/QwenLM/Qwen2-VL
 
+## 05：Florence-2 サンプル
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample/blob/main/05.Florence-2.ipynb)<br>
+参考：https://huggingface.co/microsoft/Florence-2-large
+
 
 
