@@ -5,7 +5,6 @@
 
 # 02：MobileVLM-v2 サンプル
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample/blob/main/02.MobileVLM-V2.ipynb)<br>
-<br>
 参考：https://github.com/Meituan-AutoML/MobileVLM
 
 
