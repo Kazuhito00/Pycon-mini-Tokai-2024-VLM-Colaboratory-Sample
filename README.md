@@ -20,5 +20,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample/blob/main/05.Florence-2.ipynb)<br>
 参考：https://huggingface.co/microsoft/Florence-2-large
 
-
-
+# Author
+高橋かずひと(https://twitter.com/KzhtTkhs)
+ 
+# License 
+Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample is under [Apache-2.0 License](LICENSE).
