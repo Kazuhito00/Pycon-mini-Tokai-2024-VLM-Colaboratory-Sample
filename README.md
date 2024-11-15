@@ -11,5 +11,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample/blob/main/03.MiniCPM-V2.6.ipynb)<br>
 参考：https://github.com/OpenBMB/MiniCPM-V
 
+## 04：Qwen2-VL サンプル
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample/blob/main/04.Qwen2-VL.ipynb)<br>
+参考：https://github.com/QwenLM/Qwen2-VL
+
 
 
