@@ -1,6 +1,9 @@
 # Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample
 PyCon mini 東海 2024 のトーク「Google Colaboratoryで試すVLM」で紹介したサンプル集です。
 
+![image](https://github.com/user-attachments/assets/59bc1f90-7fa6-4f98-86eb-3a4f2054f06b)
+
+
 ## 01：ChatGPT 4o mini APIサンプル
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample/blob/main/01.OpenAI-Chat-Completions-API.ipynb)<br>
 参考：https://platform.openai.com/docs/guides/vision
